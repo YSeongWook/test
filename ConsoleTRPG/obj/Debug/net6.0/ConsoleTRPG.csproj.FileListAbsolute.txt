@@ -1,0 +1,15 @@
+C:\Visual Studio Project\ConsoleTRPG\bin\Debug\net6.0\ConsoleTRPG.exe
+C:\Visual Studio Project\ConsoleTRPG\bin\Debug\net6.0\ConsoleTRPG.deps.json
+C:\Visual Studio Project\ConsoleTRPG\bin\Debug\net6.0\ConsoleTRPG.runtimeconfig.json
+C:\Visual Studio Project\ConsoleTRPG\bin\Debug\net6.0\ConsoleTRPG.dll
+C:\Visual Studio Project\ConsoleTRPG\bin\Debug\net6.0\ConsoleTRPG.pdb
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.csproj.AssemblyReference.cache
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.AssemblyInfoInputs.cache
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.AssemblyInfo.cs
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.csproj.CoreCompileInputs.cache
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.dll
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\refint\ConsoleTRPG.dll
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.pdb
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ConsoleTRPG.genruntimeconfig.cache
+C:\Visual Studio Project\ConsoleTRPG\obj\Debug\net6.0\ref\ConsoleTRPG.dll
