@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio Project\\ConsoleTRPG\\ConsoleTRPG.csproj",
+      "projectUniqueName": "C:\\Git\\test\\ConsoleTRPG\\ConsoleTRPG.csproj",
       "projectName": "ConsoleTRPG",
-      "projectPath": "C:\\Visual Studio Project\\ConsoleTRPG\\ConsoleTRPG.csproj",
+      "projectPath": "C:\\Git\\test\\ConsoleTRPG\\ConsoleTRPG.csproj",
       "packagesPath": "C:\\Users\\9892y\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio Project\\ConsoleTRPG\\obj\\",
+      "outputPath": "C:\\Git\\test\\ConsoleTRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\9892y\\AppData\\Roaming\\NuGet\\NuGet.Config",
